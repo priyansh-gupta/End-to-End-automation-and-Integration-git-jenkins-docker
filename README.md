@@ -1,5 +1,3 @@
-# DevOps_Home_Work (given by Mr. Vimal Daga sir)
-
 ## Work Description :
 
   ### In this work I created one system in which there are two environments created using docker. One for testing and one for production. Both are controlled by jenkins.  Now in our local git system we are using one branch for testing called "dev". Our master branch is connected with Production environment. And dev branch is connected with Testing environment. Here we have only two manual works:
@@ -134,4 +132,3 @@
  #### Second thing we can use more great tools like Ansible Scripting to create more great environment.
  #### Third we can create distributed setup on our own and can host our website on our own.
 
-## Thank you so much Vimal Sir for teaching us these kinds of great technologies.
